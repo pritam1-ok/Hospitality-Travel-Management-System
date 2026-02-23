@@ -1,5 +1,7 @@
 Multi-Agent Hospitality System 
 
+https://exquisite-crumble-9966d1.netlify.app/ 
+
 Project Overview
 The Multi-Agent Hospitality System is an AI-powered travel assistant designed to automate and simplify travel planning. Built as part of the Agentic AI course, this project utilizes a collaborative network of artificial intelligence agents to gather real-time data, reason through user requirements, and generate highly personalized travel itineraries. 
 
